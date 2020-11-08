@@ -5,6 +5,7 @@
 **Kelas  : TI.20.A.1** <br>
 -------------
 ## TUGAS PPT KE 3
+[ClickHere](https://pastelink.net/IkkyGaming)
 
 **Pada pertemuan 7 di PPT3 ini saya diberikan beberapa tugas diantaranya yaitu:** <br>
 
