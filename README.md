@@ -1,4 +1,5 @@
 # labspy03
+![logo](foto/logo.png)
 **Nama   : RISKY HARIADI** <br>
 **NIM    : 312010124** <br>
 **Kelas  : TI.20.A.1** <br>
