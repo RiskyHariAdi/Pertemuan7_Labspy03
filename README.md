@@ -1,6 +1,4 @@
-# Pertemuan7_Labspy03
 # labspy03
-
 **Nama   : RISKY HARIADI** <br>
 **NIM    : 312010124** <br>
 **Kelas  : TI.20.A.1** <br>
