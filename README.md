@@ -62,7 +62,7 @@ if N>0:
 ## program1.py
 
 ![programatu](foto/programatu.png)
-**Buka text editor seperti PyCharm, Visual Studio Code, dan lain lain. Kemudian salon kode berikut** <br>
+**Buka text editor seperti PyCharm,Visual Studio Code,dan lain lain.Kemudian salon kode berikut** <br>
 
 ```python
 a = 100000000
